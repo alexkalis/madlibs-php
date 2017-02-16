@@ -1,0 +1,69 @@
+body {
+	background-image: url("kleur2.jpg");
+	background-size: 1400px;
+	background-repeat: no-repeat;		
+}
+h1 {
+	font-size: 58px;	
+	margin: 0px;
+	color: black;
+}
+input {
+	margin: 0px;
+	margin-left: 400px;
+	margin-top: 0px;	
+	display: inline-block;
+	color: black;
+	background-color: lightblue;
+}
+
+h3 {
+	color:black;
+	display: inline;
+	margin: 0px;
+}
+a {
+	color: blue;
+	text-decoration: none;
+}
+button {
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  display: flex;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  float: left;	
+}
+button:hover {background-color: #3e8e41}
+
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#tekst {
+	border: 4px solid red;
+	margin-right: 966px;
+}
+#zeven {
+	margin-left: 0px;
+}
+.tekst {
+	margin-right: 943px;
+}
+.link {
+	font-size: 48px;
+}
+.een {margin-left: 67px;}
+.twee {margin-left: 61px;}
+.drie { margin-left: 96px;}
+.vier {	margin-left: 179px;}
+.vijf { margin-left: 11px; }
+.zes {margin-left: 115px;}
+.zeven {margin-left: 22px;}
+.acht {margin-left: 171px;}
